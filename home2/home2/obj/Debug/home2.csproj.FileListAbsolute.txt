@@ -1,0 +1,8 @@
+C:\projects\MyFirst\home2\home2\bin\Debug\home2.exe.config
+C:\projects\MyFirst\home2\home2\bin\Debug\home2.exe
+C:\projects\MyFirst\home2\home2\bin\Debug\home2.pdb
+C:\projects\MyFirst\home2\home2\obj\Debug\home2.gmailaccount.resources
+C:\projects\MyFirst\home2\home2\obj\Debug\home2.Properties.Resources.resources
+C:\projects\MyFirst\home2\home2\obj\Debug\home2.csproj.GenerateResource.Cache
+C:\projects\MyFirst\home2\home2\obj\Debug\home2.exe
+C:\projects\MyFirst\home2\home2\obj\Debug\home2.pdb
