@@ -1,0 +1,8 @@
+C:\projects\MyFirst\SeatBooking\bin\Debug\SeatBooking.exe.config
+C:\projects\MyFirst\SeatBooking\bin\Debug\SeatBooking.exe
+C:\projects\MyFirst\SeatBooking\bin\Debug\SeatBooking.pdb
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.Form1.resources
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.Properties.Resources.resources
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.csproj.GenerateResource.Cache
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.exe
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.pdb
