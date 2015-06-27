@@ -1,0 +1,5 @@
+C:\projects\MyFirst\Sample\bin\Debug\Sample.exe.config
+C:\projects\MyFirst\Sample\bin\Debug\Sample.exe
+C:\projects\MyFirst\Sample\bin\Debug\Sample.pdb
+C:\projects\MyFirst\Sample\obj\Debug\Sample.exe
+C:\projects\MyFirst\Sample\obj\Debug\Sample.pdb

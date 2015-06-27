@@ -6,3 +6,5 @@ C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.Properties.Resources.resou
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.csproj.GenerateResource.Cache
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.exe
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.pdb
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.csprojResolveAssemblyReference.cache
+C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.Form2.resources
