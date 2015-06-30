@@ -8,3 +8,13 @@ C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.exe
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.pdb
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.csprojResolveAssemblyReference.cache
 C:\projects\MyFirst\SeatBooking\obj\Debug\SeatBooking.Form2.resources
+C:\Projects\alekhya\MyFirst\SeatBooking\bin\Debug\SeatBooking.exe.config
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.exe
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.pdb
+C:\Projects\alekhya\MyFirst\SeatBooking\bin\Debug\SeatBooking.exe
+C:\Projects\alekhya\MyFirst\SeatBooking\bin\Debug\SeatBooking.pdb
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.Properties.Resources.resources
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.csproj.GenerateResource.Cache
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.CourseMenu.resources
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.csprojResolveAssemblyReference.cache
+C:\Projects\alekhya\MyFirst\SeatBooking\obj\Debug\SeatBooking.CourseBokkingDetails.resources
